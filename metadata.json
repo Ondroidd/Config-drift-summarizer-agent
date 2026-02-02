@@ -1,0 +1,5 @@
+{
+  "name": "Config Drift Summarizer",
+  "description": "A professional AI agent designed to analyze and summarize infrastructure configuration drift. Paste your JSON, YAML, or raw diff data to receive a structured report on impacts, risks, and recommended actions.",
+  "requestFramePermissions": []
+}
